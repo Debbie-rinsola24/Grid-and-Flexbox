@@ -1,0 +1,76 @@
+@media only screen and (min-width:375px) {
+body {
+          background-color: hsl(0, 0%, 95%);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.flex-container {
+  display: flex;
+}
+.flex-container > div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 15px;
+       font-weight: 700;
+}
+h1,  h2 {
+          color: rgb(159, 159, 199);
+           font-weight: 700;
+           text-align: center;
+}
+section {
+          display: flexbox;
+          color: hsl(0, 0%, 95%);
+          font-weight: 400;
+          
+;
+}
+.BO {
+          background-color:  hsl(31, 77%, 52%);
+}
+.DC {
+          background-color: hsl(184, 100%, 22%);
+}
+.VDC {
+          background-color: hsl(179, 100%, 13%);
+}
+
+}
+
+@media screen and (min-width: 1440px){
+  body {
+          background-color: hsl(0, 0%, 95%);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.flex-container {
+  display: flex;
+}
+.flex-container > div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 15px;
+       font-weight: 700;
+}
+h1,  h2 {
+          color: rgb(159, 159, 199);
+           font-weight: 700;
+           text-align: center;
+}
+section {
+          display: flexbox;
+          color: hsl(0, 0%, 95%);
+          font-weight: 400;
+          
+;
+}
+.BO {
+          background-color:  hsl(31, 77%, 52%);
+}
+.DC {
+          background-color: hsl(184, 100%, 22%);
+}
+.VDC {
+          background-color: hsl(179, 100%, 13%);
+}
+}
